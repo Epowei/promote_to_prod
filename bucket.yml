@@ -2,7 +2,6 @@ AWSTemplateFormatVersion: 2010-09-09
 MyBucketName:
   Description: Existing Bucket name
   Type: String
-Resources:
 WebsiteBucket:
   Type: AWS::S3::Bucket
   Properties:
