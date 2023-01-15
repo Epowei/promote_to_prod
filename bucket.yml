@@ -1,5 +1,4 @@
-Parameters:
-# New Bucket name
+AWSTemplateFormatVersion: 2010-09-09
 MyBucketName:
   Description: Existing Bucket name
   Type: String
